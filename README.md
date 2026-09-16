@@ -1,7 +1,4 @@
 # Case_study_1_Hospital_Readmission_Prediction
-This repository contains two Machine Learning case studies developed for the MLE CA-1 assessment.
-
-Case Study 1: Hospital Readmission Prediction
 Objective
 Predict whether a diabetic patient will be readmitted to the hospital within 30 days.
 
